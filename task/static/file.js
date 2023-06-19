@@ -1,0 +1,1 @@
+const linkk = document.querySelector()
